@@ -15,7 +15,7 @@ import com.tencent.service.IUserService;
 @RunWith(SpringJUnit4ClassRunner.class)     //��ʾ�̳���SpringJUnit4ClassRunner��  
 @ContextConfiguration(locations = {"classpath:spring-mybatis.xml"})  
 public class testMybatisOne {
-	  
+
 /*    private static Logger logger = Logger.getLogger(TestMyBatisOne.class);  
 */     //private ApplicationContext ac = null;  
     @Autowired

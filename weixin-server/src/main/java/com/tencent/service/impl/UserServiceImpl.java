@@ -12,7 +12,7 @@ import com.tencent.service.IUserService;
   
 @Service("userService")  
 public class UserServiceImpl implements IUserService {  
-	 @Resource  
+     @Resource
     private IUserDao userDao;  
     public User getUserById(String id) {  
         // TODO Auto-generated method stub  

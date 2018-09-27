@@ -338,60 +338,60 @@
       </div> <!-- /.row -->
 
       <div class="demo-row typography-row">
-      	<div class="demo-title">
-      		<h3 class="demo-panel-title">Typography</h3>
-      	</div>
-      	<div class="demo-content">
-      		<div class="demo-type-example">
-	      		<h1><span class="demo-heading-note">Header 1</span>Showers across the W</h1>
-      		</div>
-      		<div class="demo-type-example">
-	      		<h2><span class="demo-heading-note">Header 2</span>Give this quartet a few</h2>
-      		</div>
-      		<div class="demo-type-example">
-	      		<h3><span class="demo-heading-note">Header 3</span>The Vatican transitions to a</h3>
-      		</div>
-      		<div class="demo-type-example">
-	      		<h4><span class="demo-heading-note">Header 4</span>Great American Bites: Telluride's Oak, The</h4>
-      		</div>
-      		<div class="demo-type-example">
-	      		<h5><span class="demo-heading-note">Header 5</span>Author Diane Alberts loves her some good</h5>
-      		</div>
-      		<div class="demo-type-example">
-	      		<h6><span class="demo-heading-note">Header 6</span>With the success of young-adult book-to-movie</h6>
-      		</div>
-      		<div class="demo-type-example">
-	      		<span class="demo-text-note">Paragraph</span>
-	          <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <strong>Donec ullamcorper</strong> nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
-      		</div>
-      		<div class="demo-type-example">
-	      		<span class="demo-text-note">Image</span>
-	          <img src="docs/assets/img/example-image.jpg" alt="example-image" class="img-rounded img-responsive">
-	          <p class="img-comment"><strong>Note:</strong> gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
-      		</div>
-      		<div class="demo-type-example">
-	      		<span class="demo-text-note">Lead Text</span>
-						<p class="lead">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-      		</div>
-      		<div class="demo-type-example">
-	      		<span class="demo-text-note">Quote</span>
-	          <blockquote>
-	            <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus.</p>
-	            <small>Steve Jobs, CEO Apple</small>
-	          </blockquote>
-      		</div>
-      		<div class="demo-type-example">
-	      		<span class="demo-text-note">Small Font</span>
-	          <p><small>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</small></p>
-      		</div>
-      	</div><!-- /.demo-content-wide -->
+          <div class="demo-title">
+              <h3 class="demo-panel-title">Typography</h3>
+          </div>
+          <div class="demo-content">
+              <div class="demo-type-example">
+                  <h1><span class="demo-heading-note">Header 1</span>Showers across the W</h1>
+              </div>
+              <div class="demo-type-example">
+                  <h2><span class="demo-heading-note">Header 2</span>Give this quartet a few</h2>
+              </div>
+              <div class="demo-type-example">
+                  <h3><span class="demo-heading-note">Header 3</span>The Vatican transitions to a</h3>
+              </div>
+              <div class="demo-type-example">
+                  <h4><span class="demo-heading-note">Header 4</span>Great American Bites: Telluride's Oak, The</h4>
+              </div>
+              <div class="demo-type-example">
+                  <h5><span class="demo-heading-note">Header 5</span>Author Diane Alberts loves her some good</h5>
+              </div>
+              <div class="demo-type-example">
+                  <h6><span class="demo-heading-note">Header 6</span>With the success of young-adult book-to-movie</h6>
+              </div>
+              <div class="demo-type-example">
+                  <span class="demo-text-note">Paragraph</span>
+              <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. <strong>Donec ullamcorper</strong> nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+              </div>
+              <div class="demo-type-example">
+                  <span class="demo-text-note">Image</span>
+              <img src="docs/assets/img/example-image.jpg" alt="example-image" class="img-rounded img-responsive">
+              <p class="img-comment"><strong>Note:</strong> gravida at eget metus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</p>
+              </div>
+              <div class="demo-type-example">
+                  <span class="demo-text-note">Lead Text</span>
+                        <p class="lead">Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+              </div>
+              <div class="demo-type-example">
+                  <span class="demo-text-note">Quote</span>
+              <blockquote>
+                <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus.</p>
+                <small>Steve Jobs, CEO Apple</small>
+              </blockquote>
+              </div>
+              <div class="demo-type-example">
+                  <span class="demo-text-note">Small Font</span>
+              <p><small>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.</small></p>
+              </div>
+          </div><!-- /.demo-content-wide -->
       </div><!-- /.demo-row -->
 
       <h3 class="demo-panel-title">Color Swatches</h3>
       <div class="row demo-swatches-row">
-	      <div class="swatches-col">
-		      <div class="pallete-item">
-			      <dl class="palette palette-turquoise">
+          <div class="swatches-col">
+              <div class="pallete-item">
+                  <dl class="palette palette-turquoise">
                 <dt>#1abc9c</dt>
                 <dd>Turquoise</dd>
               </dl>
@@ -399,9 +399,9 @@
                 <dt>#16a085</dt>
                 <dd>Green sea</dd>
               </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-emerald">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-emerald">
               <dt>#2ecc71</dt>
               <dd>Emerald</dd>
             </dl>
@@ -409,9 +409,9 @@
               <dt>#27ae60</dt>
               <dd>Nephritis</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-peter-river">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-peter-river">
               <dt>#3498db</dt>
               <dd>Peter river</dd>
             </dl>
@@ -419,9 +419,9 @@
               <dt>#2980b9</dt>
               <dd>Belize hole</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-amethyst">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-amethyst">
               <dt>#9b59b6</dt>
               <dd>Amethyst</dd>
             </dl>
@@ -429,9 +429,9 @@
               <dt>#8e44ad</dt>
               <dd>Wisteria</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-wet-asphalt">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-wet-asphalt">
               <dt>#34495e</dt>
               <dd>Wet asphalt</dd>
             </dl>
@@ -439,9 +439,9 @@
               <dt>#2c3e50</dt>
               <dd>Midnight blue</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-sun-flower">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-sun-flower">
               <dt>#f1c40f</dt>
               <dd>Sun flower</dd>
             </dl>
@@ -449,9 +449,9 @@
               <dt>#f39c12</dt>
               <dd>Orange</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-carrot">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-carrot">
               <dt>#e67e22</dt>
               <dd>Carrot</dd>
             </dl>
@@ -459,9 +459,9 @@
               <dt>#d35400</dt>
               <dd>Pumpkin</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-alizarin">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-alizarin">
               <dt>#e74c3c</dt>
               <dd>Alizarin</dd>
             </dl>
@@ -469,9 +469,9 @@
               <dt>#c0392b</dt>
               <dd>Pomegranate</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-clouds">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-clouds">
               <dt>#ecf0f1</dt>
               <dd>Clouds</dd>
             </dl>
@@ -479,9 +479,9 @@
               <dt>#bdc3c7</dt>
               <dd>Silver</dd>
             </dl>
-		      </div>
-		      <div class="pallete-item">
-			      <dl class="palette palette-concrete">
+              </div>
+              <div class="pallete-item">
+                  <dl class="palette palette-concrete">
               <dt>#95a5a6</dt>
               <dd>Concrete</dd>
             </dl>
@@ -489,10 +489,10 @@
               <dt>#7f8c8d</dt>
               <dd>Asbestos</dd>
             </dl>
-		      </div>
-	      </div> <!-- /swatches items -->
-	      <div class="swatches-desc-col">
-		      <h6 class="palette-headline">SWATCHES</h6>
+              </div>
+          </div> <!-- /swatches items -->
+          <div class="swatches-desc-col">
+              <h6 class="palette-headline">SWATCHES</h6>
           <p class="palette-paragraph">
             Colors &mdash; is almost the most important part of the <strong>Flat UI</strong>. Better to use different shades of provided colors than new.
           </p>
@@ -502,7 +502,7 @@
           <p class="palette-paragraph">
             <strong>No gradients, no shadows.</strong>
           </p>
-	      </div> <!-- /swatches desc -->
+          </div> <!-- /swatches desc -->
       </div> <!-- /swatches row -->
 
       <h3 class="demo-panel-title">Icons <small>(14)</small></h3>
@@ -807,7 +807,7 @@
 
             <p class="pvl">
               <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://designmodo.com/flat-free/" data-text="Flat UI Free - PSD&amp;amp;HTML User Interface Kit" data-via="designmodo">Tweet</a>
-							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
               <iframe src="http://ghbtns.com/github-btn.html?user=designmodo&repo=Flat-UI&type=watch&count=true" height="20" width="107" frameborder="0" scrolling="0" style="width:105px; height: 20px;" allowTransparency="true"></iframe>
               <iframe src="http://ghbtns.com/github-btn.html?user=designmodo&repo=Flat-UI&type=fork&count=true" height="20" width="107" frameborder="0" scrolling="0" style="width:105px; height: 20px;" allowTransparency="true"></iframe>
               <iframe src="http://ghbtns.com/github-btn.html?user=designmodo&type=follow&count=true" height="20" width="195" frameborder="0" scrolling="0" style="width:195px; height: 20px;" allowTransparency="true"></iframe>
