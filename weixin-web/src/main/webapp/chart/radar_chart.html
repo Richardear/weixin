@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>How to ChartJS</title>
+
+  
+      <style>
+      /* NOTE: The styles were added inline because Prefixfree needs access to your styles and they must be inlined if they are on local disk! */
+      html {
+  background: #08252c;
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+  overflow: auto;
+}
+.container .title {
+  text-align: center;
+  color: #FFA500;
+}
+.container .title__link {
+  display: inline-block;
+  color: white;
+}
+.container .title__link:hover {
+  text-decoration: none;
+}
+
+.chart-demo {
+  float: left;
+  width: 640px;
+}
+
+    </style>
+
+</head>
+
+<body>
+  <div class="container">
+
+  <!-- Radar Chart -->
+  <div class="chart-demo">
+    <h2 class="title">Radar Chart</h2>
+    <canvas id="radarChart" width="640" height="400"></canvas>
+  </div>
+  
+  <!-- Doughnut Chart -->
+  <div class="chart-demo">
+    <h2 class="title">Doughnut Chart</h2>
+    <canvas id="doughnutChart" width="640" height="400"></canvas>
+  </div>
+</div>
+<!--
+  <script src='chart/js/jquery.min.js'></script>
+-->
+<script src='chart/js/Chart.min.js'></script>
+
+    <script src="chart/js/index.js"></script>
+
+</body>
+</html>
