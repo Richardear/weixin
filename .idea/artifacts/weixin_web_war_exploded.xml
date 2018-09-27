@@ -16,19 +16,6 @@
           <element id="archive" name="weixin-base-1.0.0.pom">
             <element id="module-output" name="weixin-base" />
           </element>
-          <element id="library" level="project" name="Maven: org.rainbow.lib:ojdbc6:11g" />
-          <element id="library" level="project" name="Maven: org.rainbow.lib:orai18n:11g" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.2.RELEASE" />
-          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.0" />
-          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.3.0" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-support:2.0.8" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.0.23" />
-          <element id="library" level="project" name="Maven: commons-dbcp:commons-dbcp:1.2.2" />
-          <element id="library" level="project" name="Maven: commons-pool:commons-pool:1.3" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.2.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.2.2.RELEASE" />
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
