@@ -1,10 +1,10 @@
 {
-	"IcoMoonType": "selection",
-	"icons": [
-		{
-			"icon": {
-				"paths": [
-					"M128 256l384 512 384-512h-768z"
+    "IcoMoonType": "selection",
+    "icons": [
+        {
+            "icon": {
+                "paths": [
+            		"M128 256l384 512 384-512h-768z"
 				],
 				"grid": 16,
 				"tags": [
