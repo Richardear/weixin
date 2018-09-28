@@ -8,44 +8,44 @@
 **/
 /*global jQuery, define */
 (function( factory ) {
-	"use strict";
-	if ( typeof define === "function" && define.amd ) {
-		// AMD. Register as an anonymous module.
-		define([
-			"jquery",
-			"../grid.base"
-		], factory );
-	} else {
-		// Browser globals
-		factory( jQuery );
-	}
+    "use strict";
+    if ( typeof define === "function" && define.amd ) {
+        // AMD. Register as an anonymous module.
+        define([
+            "jquery",
+            "../grid.base"
+        ], factory );
+    } else {
+        // Browser globals
+        factory( jQuery );
+    }
 }(function( $ ) {
 
 $.jgrid = $.jgrid || {};
 if(!$.jgrid.hasOwnProperty("regional")) {
-	$.jgrid.regional = [];
+    $.jgrid.regional = [];
 }
 $.jgrid.regional["cn"] = {
     defaults : {
         recordtext: "{0} - {1}\u3000共 {2} 条", // 共字前是全角空格
         emptyrecords: "无数据显示",
         loadtext: "读取中...",
-		savetext: "Saving...",
+        savetext: "Saving...",
         pgtext : " {0} 共 {1} 页",
-		pgfirst : "First Page",
-		pglast : "Last Page",
-		pgnext : "Next Page",
-		pgprev : "Previous Page",
-		pgrecs : "Records per Page",
-		showhide: "Toggle Expand Collapse Grid",
-		// mobile
-		pagerCaption : "Grid::Page Settings",
-		pageText : "Page:",
-		recordPage : "Records per Page",
-		nomorerecs : "No more records...",
-		scrollPullup: "Pull up to load more...",
-		scrollPulldown : "Pull down to refresh...",
-		scrollRefresh : "Release to refresh..."
+        pgfirst : "First Page",
+        pglast : "Last Page",
+        pgnext : "Next Page",
+        pgprev : "Previous Page",
+        pgrecs : "Records per Page",
+        showhide: "Toggle Expand Collapse Grid",
+        // mobile
+        pagerCaption : "Grid::Page Settings",
+        pageText : "Page:",
+        recordPage : "Records per Page",
+        nomorerecs : "No more records...",
+        scrollPullup: "Pull up to load more...",
+        scrollPulldown : "Pull down to refresh...",
+        scrollRefresh : "Release to refresh..."
     },
     search : {
         caption: "搜索...",
@@ -53,8 +53,8 @@ $.jgrid.regional["cn"] = {
         Reset: "重置",
         odata: [{ oper:'eq', text:'等于\u3000\u3000'},{ oper:'ne', text:'不等\u3000\u3000'},{ oper:'lt', text:'小于\u3000\u3000'},{ oper:'le', text:'小于等于'},{ oper:'gt', text:'大于\u3000\u3000'},{ oper:'ge', text:'大于等于'},{ oper:'bw', text:'开始于'},{ oper:'bn', text:'不开始于'},{ oper:'in', text:'属于\u3000\u3000'},{ oper:'ni', text:'不属于'},{ oper:'ew', text:'结束于'},{ oper:'en', text:'不结束于'},{ oper:'cn', text:'包含\u3000\u3000'},{ oper:'nc', text:'不包含'},{ oper:'nu', text:'不存在'},{ oper:'nn', text:'存在'}],
         groupOps: [ { op: "AND", text: "所有" },    { op: "OR",  text: "任一" } ],
-		operandTitle : "Click to select search operation.",
-		resetTitle : "Reset Search Value"
+        operandTitle : "Click to select search operation.",
+        resetTitle : "Reset Search Value"
     },
     edit : {
         addCaption: "添加记录",
@@ -106,11 +106,11 @@ $.jgrid.regional["cn"] = {
         alerttext: "请选择记录",
         viewtext: "",
         viewtitle: "查看所选记录",
-		savetext: "",
-		savetitle: "Save row",
-		canceltext: "",
-		canceltitle : "Cancel row editing",
-		selectcaption : "Actions..."
+        savetext: "",
+        savetitle: "Save row",
+        canceltext: "",
+        canceltitle : "Cancel row editing",
+        selectcaption : "Actions..."
     },
     col : {
         caption: "选择列",
@@ -195,7 +195,7 @@ $.jgrid.regional["cn"] = {
                 YearMonth: "F, Y" // in jQuery UI Datepicker: "MMMM, yyyy"
             },
             reformatAfterEdit : false,
-			userLocalTime : false
+            userLocalTime : false
         },
         baseLinkUrl: '',
         showAction: '',
