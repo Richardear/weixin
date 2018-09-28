@@ -1,0 +1,1 @@
+package com.tencent.weixin.constant;public class BasicConstants {    // 加密字符串前缀    public static final String encryptionStr = "U_U++--V";}
