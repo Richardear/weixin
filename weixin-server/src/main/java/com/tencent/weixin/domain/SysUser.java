@@ -3,6 +3,8 @@ package com.tencent.weixin.domain;
 public class SysUser {
     private String id;
 
+    private String userCode;
+
     private String userName;
 
     private String password;
@@ -15,6 +17,14 @@ public class SysUser {
 
     public void setId(String id) {
         this.id = id == null ? null : id.trim();
+    }
+
+    public String getUserCode() {
+        return userCode;
+    }
+
+    public void setUserCode(String userCode) {
+        this.userCode = userCode;
     }
 
     public String getUserName() {

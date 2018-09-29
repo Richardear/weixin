@@ -21,7 +21,7 @@ public class SysUserServiceImpl implements ISysUserService {
     public SysUser getUserById(String id) {
         return userDao.selectByPrimaryKey(id);
     }
-    public Map<String, Object> findByUname(String uname){
-        return userDao.findByUname(uname);
+    public Map<String, Object> findByUserCode(String uname){
+        return userDao.findByUserCode(uname);
     }
 }  

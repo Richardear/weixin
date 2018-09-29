@@ -7,5 +7,5 @@ import java.util.Map;
 public interface ISysUserService {
         SysUser getUserById(String userId);
 
-        Map<String, Object> findByUname(String uname);
+        Map<String, Object> findByUserCode(String uname);
     }

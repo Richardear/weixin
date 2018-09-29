@@ -25,7 +25,7 @@ function login() {
         return ; 
     }
     var obj = {
-        username : $("#username").val(),
+        username : $("#usercode").val(),
         password : $("#password").val()
     };
     $.ajax({
@@ -48,8 +48,8 @@ function login() {
  * @returns {Boolean}
  */
 function checkForm(){
-    var username = $.trim($("#username").val());
-    if (username == ""){
+    var usercode = $.trim($("#usercode").val());
+    if (usercode == ""){
         areaAlert("用户名不能为空！");
         return false;
     }

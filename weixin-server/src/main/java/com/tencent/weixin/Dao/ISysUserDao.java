@@ -17,5 +17,5 @@ public interface ISysUserDao {
 
     int updateByPrimaryKey(SysUser record);
 
-    Map<String, Object> findByUname(String uname);
+    Map<String, Object> findByUserCode(String uname);
 }

@@ -1,3 +1,4 @@
+/*
 import java.util.logging.Logger;
 
 import org.junit.Test;
@@ -13,8 +14,10 @@ import com.tencent.service.IUserService;
 @ContextConfiguration(locations = {"classpath:spring-mybatis.xml"})  
 public class testMybatisOne2 {
 
-/*    private static Logger logger = Logger.getLogger(TestMyBatisOne.class);  
-*/    //private ApplicationContext ac = null;  
+*/
+/*    private static Logger logger = Logger.getLogger(TestMyBatisOne.class);
+*//*
+    //private ApplicationContext ac = null;
     @Autowired
     private IUserService userService = null;  
   
@@ -29,6 +32,9 @@ public class testMybatisOne2 {
         SysUser user = userService.getUserById("1");
          System.out.println(user.getUserName());  
          //logger.info("ֵ��"+user.getUserName());  
-/*        logger.info(JSON.toJSONString(user));  
-*/    }  
+*/
+/*        logger.info(JSON.toJSONString(user));
+*//*
+    }
 }
+*/
